@@ -1,0 +1,7 @@
+Coloque aqui as fotos do site:
+
+- hero.jpg — capa, vertical 4:5 (aparece no lugar da ilustração da panela)
+- prato.jpg — a moqueca em destaque no cardápio (largura mínima 900px)
+- 1.jpg a 6.jpg — galeria, horizontais 4:3
+
+Sem as fotos o site funciona do mesmo jeito: no lugar delas aparecem a ilustração da panela e um fundo meia-tom. Quando adicionar as imagens, elas entram automaticamente.
